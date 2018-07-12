@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+.logo {
+  margin: 0;
+  color: white;
+  font-size: 30px;
+}
+header {
+  height: 60px;
+  padding: 0 20px;
+  background-color: turquoise;
+  text-align: center;
+  font-size: 20px;
+}
+.navbar {
+  text-align: right;
+  display: inline-block;
+}
+img {
+  max-width: 100%;
+}
